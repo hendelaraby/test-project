@@ -43,3 +43,65 @@ body{
   text-decoration: none;
   padding-right: 10px;
 }
+
+
+.aboutme
+{
+   
+    overflow: hidden;
+}
+.person img
+{
+       width: 50%;
+      
+     float: left;
+}
+
+.aboutmeperson h2
+{
+    text-align: center;
+    font-size: 30px;
+       padding-left:  10%;
+     padding-right: 10%;
+}
+.aboutmeperson
+
+{
+        padding: 100px 0px;
+        width: 50%;
+        float: left;
+        text-align:left;
+        font-size: 15px;
+        line-height: 2;
+    
+    }
+.aboutmeperson p
+{
+    
+     padding-right: 10%;
+}
+
+.aboutmeperson h6
+{
+   
+     padding-right: 10%;
+}
+.aboutmeperson button
+{
+     background-color: #FFF;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3%;
+    margin: 10px;
+    margin-top: 20px;
+    border: solid 2px ;
+   
+    }
+
+.aboutmeperson button:hover
+{
+  
+    background-color: black;
+    color: #fff;
+}
