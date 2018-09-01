@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+body{
+  font-family: "segoe ui light";
+}
+.homepage{
+  height: 688px;
+  background-image: url(we.jpg);
+  background-size: 100% 100%;
+}
+.homepage .caption button{
+  
+  background-color: red;
+  color: white;
+  border: none;
+  width: 80px;
+  height: 29px;
+  margin-top: 20px;
+  border-radius: 30px;
+  
+}
+.homepage .caption{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  padding-top: 180px;
+  color: white;
+}
+.nav ul{
+  list-style: none;
+}
+.nav ul li{
+  display: inline-block;
+  margin-left: 20px;
+  padding: 10px 0px;
+  
+}
+.nav ul li a{
+  border-right: 1px solid  green;
+  text-decoration: none;
+  padding-right: 10px;
+}
